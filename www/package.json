@@ -1,0 +1,8 @@
+{
+  "name": "Forms",
+  "description": "My First Registration Application with Tabrisjs",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "1.0.0"
+  }
+}
