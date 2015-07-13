@@ -13,7 +13,7 @@
     <author email="me@me.com" href="http://www.me.me">
         Emmanuel Assimeku
     </author>
- 
+ 	<content src="package.json" />
     <access origin="*" />
  
     <preference name="EnableDeveloperConsole" value="true"/>
